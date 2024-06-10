@@ -1,5 +1,5 @@
 # ai-case-study
-# NVIDIA
+# NVIDIA![alt text](image.png)
 
 ## Overview and Origin
 
@@ -24,7 +24,7 @@ The founders of NVIDIA had a goal to transform computing using the power of grap
 * How is the company funded? How much funding have they received?  
 NVIDIA received its early investment from venture capital companies, notably Sequoia Capital. Early on, the business raised $20 million in venture money. Sequoia Capital's investment was critical since it provided the financial resources required to develop and launch NVIDIA's first products.
 
-  NVIDIA has developed tremendously over the years, becoming a publicly listed firm. The firm went public in 1999, generating $42 million from its first public offering (IPO). This influx of funding enabled NVIDIA to increase its R&D activities, speed product development, and build a strong market position.
+  NVIDIA has developed tremendously over the years, becoming a publicly listed firm. The firm went public in 1999, generating $42 million from  first public offering (IPO). This influx of funding enabled NVIDIA to increase its R&D activities, speed product development, and build a strong market position.
   Since its IPO, NVIDIA has raised significant funds through a variety of financial operations, including secondary offerings and debt financing. The company's solid financial position has allowed it to engage in cutting-edge research, acquire complementary technologies, and maintain its dominance in the GPU industry.
 
 
