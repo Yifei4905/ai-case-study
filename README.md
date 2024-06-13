@@ -35,34 +35,53 @@ NVIDIA has grown immensely over the years and became a publicly listed firm in 1
 NVIDIA addresses several major problems in the computer technology world:
 
   - **High-Performance Graphics**  
-    A major mission for NVIDIA is to provide first-rate graphics performance for gaming and professional applications. The company envisions a future where it can deliver visual reality on every computing device, allowing gamers, designers, and content creators to experience lifelike images and immersive worlds.
+    - Provide first-rate graphics performance for gaming and professional applications.
+    - Deliver visual reality on every computing device for gamers, designers, and content creators.
+    - Render lifelike images and create immersive worlds.
 
   - **General-Purpose Computing**  
-    NVIDIA saw from the outset that GPUs have applications beyond computer graphics in general-purpose processing. The company aspires to provide powerful parallel processing capabilities that can speed up scientific simulations, data analysis, and machine learning.
+    - Utilize GPUs for broader applications beyond graphics.
+    - Provide powerful parallel processing capabilities for scientific simulations, data analysis, and machine learning.
 
   - **Artificial Intelligence/Machine Learning**  
-    NVIDIA is committed to delivering the processing power required for training and deploying giant neural networks. The company's GPUs are designed to handle high-performance workloads for both AI research and development.
+    - Deliver the processing power required for training and deploying giant neural networks.
+    - Handle high-performance workloads for both AI research and development.
 
   - **Data Center Efficiency**  
-    NVIDIA meets the growing need for high performance in data centers. The company provides GPUs that are designed for data center applications, offering efficient large-dataset processing and cloud computing services.
+    - Meet the growing need for high performance in data centers.
+    - Provide GPUs designed for data center applications, offering efficient large-dataset processing and cloud computing services.
+
 
 **Who is the target customer of the company? Is it possible to find a number on the size of this group of customers?**  
 NVIDIA's target customers include:
 
   - **Gamers**  
-    The gaming industry is a colossal market for NVIDIA. Millions of gamers worldwide want the latest graphics technology to enhance their gaming experiences. NVIDIA's GeForce GPUs are designed to meet gamers' expectations with high performance, low latency, and rich visual effects. The global gaming market is huge and is estimated to reach $200 billion by 2023. NVIDIA commands a large share of this expanding market.
+    - The gaming industry is a colossal market for NVIDIA.
+    - Millions of gamers worldwide want the latest graphics technology to enhance their gaming experiences.
+    - NVIDIA's GeForce GPUs are designed to meet gamers' expectations with high performance, low latency, and rich visual effects.
+    - The global gaming market is huge and is estimated to reach $200 billion by 2023.
+    - NVIDIA commands a large share of this expanding market.
 
   - **Professional Graphic Designers**  
-    Professional graphic designers, animators, and video editors rely on NVIDIA's Quadro GPUs to complete their work. These GPUs provide the high-performance graphics and computational power needed to generate complex visual materials like 3D models, animations, and video effects. The market for professional graphics solutions is vast and includes sectors such as cinema, architecture, and product design.
+    - Professional graphic designers, animators, and video editors rely on NVIDIA's Quadro GPUs.
+    - These GPUs provide the high-performance graphics and computational power needed to generate complex visual materials like 3D models, animations, and video effects.
+    - The market for professional graphics solutions is vast and includes sectors such as cinema, architecture, and product design.
 
   - **Scientists and Researchers**  
-    Scientists and researchers in physics, chemistry, biology, and engineering use NVIDIA GPUs for computational simulations and data processing. GPUs are suitable for scientific research because they can efficiently conduct parallel processing tasks, which are common in research. The need to analyze large datasets and run complex simulations is driving the demand for high-performance computing in scientific research.
+    - Scientists and researchers in physics, chemistry, biology, and engineering use NVIDIA GPUs for computational simulations and data processing.
+    - GPUs are suitable for scientific research because they can efficiently conduct parallel processing tasks.
+    - The need to analyze large datasets and run complex simulations is driving the demand for high-performance computing in scientific research.
 
   - **Data Center and Cloud Service Providers**  
-    Data center infrastructures and cloud service providers use NVIDIA GPUs for accelerated processing, enabling AI and machine learning applications. Companies like Amazon Web Services, Google Cloud, and Microsoft Azure provide GPU-based instances to their customers for running high-performance applications. The data center GPU market is growing rapidly due to increased adoption of cloud computing and AI-powered applications.
+    - Data center infrastructures and cloud service providers use NVIDIA GPUs for accelerated processing, enabling AI and machine learning applications.
+    - Companies like Amazon Web Services, Google Cloud, and Microsoft Azure provide GPU-based instances to their customers for running high-performance applications.
+    - The data center GPU market is growing rapidly due to increased adoption of cloud computing and AI-powered applications.
 
   - **AI Researchers and Developers**  
-    AI researchers and developers use NVIDIA GPUs to train and deploy machine learning models. The company's GPUs provide the computing capacity required for AI research, such as processing massive datasets and performing complex computations. The AI sector is expanding rapidly, with applications in healthcare, finance, self-driving cars, and other industries. NVIDIA's advantage in AI hardware puts them in a strong position to capture a significant part of this market.
+    - AI researchers and developers use NVIDIA GPUs to train and deploy machine learning models.
+    - The company's GPUs provide the computing capacity required for AI research, such as processing massive datasets and performing complex computations.
+    - The AI sector is expanding rapidly, with applications in healthcare, finance, self-driving cars, and other industries.
+    - NVIDIA's advantage in AI hardware puts them in a strong position to capture a significant part of this market.
 
 **What does this company do better or differently from what the competition cannot or does not do? What is the unfair advantage that they exploit?**  
 The critical factor in NVIDIA's favor is its ability to develop and push the boundaries of GPU technology. Several major elements contribute to NVIDIA's unfair advantage, including:
