@@ -25,7 +25,7 @@ The founders of NVIDIA had the vision to revolutionize computing with the first 
 They envisioned a company that would expand the limits of visual computing and make GPUs an integral standard in today's computing. In essence, the founders felt that the future for computers was visual and that GPUs would be at the forefront to provide everything from rich, immersive visuals to high-definition computing applications.
 
 **How is the company funded? How much funding have they received?**  
-NVIDIA first received venture capital from firms such as Sequoia Capital. The founding weeks of the company attracted $20 million in venture capital. Sequoia Capital's investment provided the financial resources for the development and introduction of NVIDIA's first products.
+According to NVIDIA: "NVIDIA first received venture capital from firms such as Sequoia Capital. The founding weeks of the company attracted $20 million in venture capital. Sequoia Capital's investment provided the financial resources for the development and introduction of NVIDIA's first products."
 
 NVIDIA has grown immensely over the years and became a publicly listed firm in 1999, raising $42 million during its first IPO. This funding enabled NVIDIA to increase its R&D activities, speed up product development, and establish a strong market presence. Since its IPO, NVIDIA has raised significant funds through various financial operations, including secondary offerings and debt financing. A sound financial position has helped the company conduct advanced research and acquire complementary technologies to strengthen its position in the GPU market.
 
